@@ -32,7 +32,7 @@ const (
 	NotFound = `<!DOCTYPE html>
 <html>
 <head>
-<title>Not Found</title>
+<title>维护中</title>
 <style>
     body {
         width: 35em;
@@ -42,11 +42,8 @@ const (
 </style>
 </head>
 <body>
-<h1>The page you requested was not found.</h1>
-<p>Sorry, the page you are looking for is currently unavailable.<br/>
-Please try again later.</p>
-<p>The server is powered by <a href="https://github.com/fatedier/frp">frp</a>.</p>
-<p><em>Faithfully yours, frp.</em></p>
+<h1>维护中</h1>
+<h1>In the maintenance</h1>
 </body>
 </html>
 `
